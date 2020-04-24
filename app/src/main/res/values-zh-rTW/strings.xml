@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strname">姓名：</string>
+    <string name="strheight">身高：</string>
+    <string name="strweight">體重：</string>
+    <string name="strsubmit">確定</string>
+    <string name="nextpage">下一頁</string>
+</resources>

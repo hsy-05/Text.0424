@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strname">name：</string>
+    <string name="strheight">height：</string>
+    <string name="strweight">weight：</string>
+    <string name="strsubmit">submit</string>
+    <string name="nextpage">nextpage</string>
+</resources>
